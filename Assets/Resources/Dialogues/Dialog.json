@@ -1,0 +1,18 @@
+{
+  "npcs": [
+    {
+      "id": "redeyemon", 
+      "dialogue": [
+        { "textid": "redeyemon1", "Name": "빨눈", "Text": "안녕하세요" },
+        { "textid": "redeyemon2", "Name": "빨눈", "Text": "저는 빨간눈입니다" }
+      ]
+    },
+    {
+      "id": "blueeyemon", 
+      "dialogue": [
+        { "textid": "blueeyemon1", "Name": "파눈", "Text": "어서 오세요!" },
+        { "textid": "blueeyemon2", "Name": "파눈", "Text": "혹시 오는길에 빨눈을 보셨나요?" }
+      ]
+    }
+  ]
+}
